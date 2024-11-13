@@ -24,22 +24,22 @@ const social = [
     {
         name: 'GitHub',
         icon: 'github',
-        link: 'https://github.com/once-ui-system/nextjs-starter',
+        link: 'https://github.com/Ella-1/',
     },
     {
         name: 'LinkedIn',
         icon: 'linkedin',
-        link: 'https://www.linkedin.com/company/once-ui/',
+        link: 'www.linkedin.com/in/bata-zoaka',
     },
     {
         name: 'X',
         icon: 'x',
-        link: '',
+        link: 'https://x.com/Prof_Bata',
     },
     {
         name: 'Email',
         icon: 'email',
-        link: 'mailto:example@gmail.com',
+        link: 'batazoaka3@gmail.com',
     },
 ]
 
